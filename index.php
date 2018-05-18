@@ -1,4 +1,4 @@
 <?php
 	//phpinfo();
-	echo 'jack is good';
+	echo 'jack is no one';
 ?>
