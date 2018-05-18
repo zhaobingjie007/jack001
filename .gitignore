@@ -1,6 +1,6 @@
 #file
 sys.log
-
+*.aa
 
 #dir
 cache
